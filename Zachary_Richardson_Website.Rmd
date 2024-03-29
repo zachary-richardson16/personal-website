@@ -1,0 +1,154 @@
+---
+# title: "**Zachary Richardson**"
+geometry: margin=2
+output:
+  html_document:
+    theme: journal
+    css: styles.css
+  # prettydoc::html_pretty:
+  #   theme: architect
+    toc: TRUE
+    toc_float:
+      collapsed: TRUE
+      smooth_scroll: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r include=FALSE}
+library(tidyverse)
+```
+
+<!-- Title -->
+
+<div style="text-align:center; font-size: 32px;">
+
+**Zachary Richardson**
+
+</div>
+
+
+<!-- Personal Headshot -->
+
+<div style="text-align:center;">
+
+<img 
+src="C:/Users/zacri/OneDrive - University of North Carolina at Chapel Hill/Desktop/Professional Development/headshot.jpg" width="200" height="250" 
+/>
+
+</div>
+
+<!-- Contact Info -->
+
+<div style="text-align:center; font-size: 16px;">
+
+Email: Richardson.ZacharyH@gmail.com | Phone: (252) 266-9212 | [LinkedIn](https://www.linkedin.com/in/zachary-richardson24/) | [GitHub](https://github.com/zachary-richardson16) 
+
+</div>
+
+## Mission Statement
+
+
+
+## Education
+
+#### **University of North Carolina at Chapel Hill** -- Chapel Hill, NC | May 2024  
+<!-- <p class="right-align"> May 2024 </p> -->
+
+*Bachelor of Science in Biology, Minors in Data Science and Statistics*
+
+#### **Relevant Coursework**
+
+*Foundations of Statistics and Data Science, Introduction to Probability, Methods of Data Analysis, Sports Analytics*
+
+#### **North Carolina School of Science and Mathematics** -- Durham, NC | May 2020
+
+
+
+## Experience
+#### **UNC Baseball Analytics Team** – Chapel Hill, NC  | September 2023-Present
+
+*Data Analyst*
+
+  - Create weekly pitcher reports including detailed visuals such as pitch heat maps, spin axis diagrams, and player game logs
+  
+  - Perform full stack development of team R Shiny application to enhance user experience through improved readability of pitcher ranking tables and streamline R script functions for managing app data
+
+  - Collect, clean, and manage pitcher and hitter data using Trackman software, manual pitch tagging via 2-dimensional velocity and break statistics, and AWS
+
+
+#### **Carolina Athletics** – Chapel Hill, NC | August 2023-December 2023
+*Data Analytics Intern*
+
+  - Extracted, cleaned, and merged large data sets using SQL, resulting in enhanced data accuracy and streamlined decision-making
+processes
+
+  - Conducted email market analysis on over 1,000,000 emails using Tableau to identify patterns in emails leading to high profitability and optimized ticket revenue generation
+  
+  - Conducted and presented weekly research on current analytical trends and advanced visualization techniques in sports analytics
+
+
+#### **Carolina Housing** – Chapel Hill, NC | August 2021-Present
+*Resident Advisor Mentor*, August 2022-Present
+
+  - Serve as a role model and leader for a staff of over 30 Resident Advisors (RAs) while still fulfilling the RA role
+  
+  - Facilitate training sessions and assist in the leadership of weekly staff meetings
+  
+  - Manage purchase requests for RAs biweekly and update budget sheets in Microsoft Excel throughout the month
+
+*Resident Advisor*, August 2021-August 2022
+
+  - Fostered an inclusive living environment for over 60 residents by encouraging problem solving and collaboration
+  
+  - Served as an advocate for residents through open communication between Housing faculty and residents within the community
+  
+  - Created inviting and informative programs monthly to teach critical life skills and support the wellbeing of residents
+
+
+#### **Student Alumni Association Board of Directors** – Chapel Hill, NC | August 2021-May 2023
+*Chair*, May 2022-May 2023
+
+  - Orchestrated reservations of venues and locations for bimonthly events through detailed communication and planning
+  
+  - Led weekly strategy meetings with 10 fellow board members to discuss upcoming tasks and outreach plans
+Associate Board Member, August 2021-May 2022
+
+  - Organized monthly events including dinners, concerts, and outreach programs for over 500 involved members
+  
+  - Communicated effectively with both committees and supervisors to relay important information in a timely manner
+
+
+#### **Heelstone Renewable Energy**, LLC – Chapel Hill, NC | April 2022-August 2022
+*Development Intern*
+
+  - Wrote a Python program that web scraped, cleaned, and converted pertinent data from various energy companies’ quarterly reports into Excel workbooks
+
+  - Reviewed more than 5,000 parcels of land for potential development using factors including land quality and acreage
+  
+  - Contacted county officials across the country to discuss legal zoning ordinances and gather crucial information
+
+
+
+## Projects
+
+### Team Projects
+[FIFA 21](https://github.com/zachary-richardson16/FIFA-Analysis)
+
+  - Final project for UNC course *Introduction to Data Science* analyzing data from the video game FIFA 21
+
+[9 Ball Pool](https://github.com/zachary-richardson16/9-Ball-Analysis)
+
+  - Group project for UNC course *Sports Analytics* where we watched 9 ball pool videos, collected data, and performed analysis to identify a potential competitive edge for players of the sport
+  
+[Cincinnati Reds Hackathon](https://github.com/zachary-richardson16/reds-hackathon)
+
+  - 2024 Cinicinnati Reds Hackathon submission -- analysis of every MLB pitch from 2021-2023 and Fangraphs data to identify several MLB pitchers who would be better suited in an alternative pitching role than the one they played in the 2023 season
+
+### Independent Works
+[NBA Shot Charts](https://github.com/zachary-richardson16/nba-shot-charts)
+
+  - Collection of NBA player game, season, and career shot charts drawn using `ggplot` package in R
+
