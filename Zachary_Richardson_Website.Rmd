@@ -35,7 +35,7 @@ library(tidyverse)
 <div style="text-align:center;">
 
 <img 
-src="C:/Users/zacri/OneDrive - University of North Carolina at Chapel Hill/Desktop/Professional Development/headshot.jpg" width="200" height="250" 
+src="C:/Users/zacri/Documents/Professional Development/website-picture.jpg" width="225" height="325" 
 />
 
 </div>
@@ -49,13 +49,12 @@ Email: Richardson.ZacharyH@gmail.com | Phone: (252) 266-9212 | [LinkedIn](https:
 </div>
 
 ## Mission Statement
-I am a passionate and driven undergraduate senior looking to apply my vast analytical experiences and knowledge to the world of sports analytics. My goal is to use a data-driven approach to provide competitive advantages to sports teams, identify new and innovative trends in sports analytics, and make a meaningful impact on the industry as a whole.
+I am a passionate and driven recent graduate looking to apply my vast analytical experiences and knowledge to the world of sports analytics. My goal is to use a data-driven approach to provide competitive advantages to professional sports teams, identify new and innovative trends in sports analytics, and make a meaningful impact on the industry as a whole.
 
 
 ## Education
 
 #### **University of North Carolina at Chapel Hill** -- Chapel Hill, NC | May 2024  
-<!-- <p class="right-align"> May 2024 </p> -->
 
 *Bachelor of Science in Biology, Minors in Data Science and Statistics*
 
@@ -68,6 +67,18 @@ I am a passionate and driven undergraduate senior looking to apply my vast analy
 
 
 ## Experience
+#### **Oklahoma City Thunder** - Oklahoma City, OK (Remote) | September 2024-Present
+
+*Analyst Intern*
+
+
+#### **Pro Football Focus** - Cincinnati, OH (Remote) | May 2024-July 2024
+
+*Data Collector Trainee*
+
+  - Studied college and NFL game film to collect precise data including play-by-play player position and role
+
+
 #### **UNC Baseball Analytics Team** – Chapel Hill, NC  | September 2023-Present
 
 *Data Analyst*
@@ -145,9 +156,13 @@ Associate Board Member, August 2021-May 2022
   
 [Cincinnati Reds Hackathon](https://github.com/zachary-richardson16/reds-hackathon)
 
-  - 2024 Cinicinnati Reds Hackathon submission -- analysis of every MLB pitch from 2021-2023 and Fangraphs data to identify several MLB pitchers who would be better suited in an alternative pitching role than the one they played in the 2023 season
+  - 2024 Cincinnati Reds Hackathon submission -- analysis of every MLB pitch from 2021-2023 and Fangraphs data to identify several MLB pitchers who would be better suited in an alternative pitching role than the one they played in the 2023 season
 
 ### Independent Works
+[Personal Website](https://github.com/zachary-richardson16/personal-website)
+
+  - My personal website (which you are currently viewing) detailing my experiences and a few projects that I have worked on
+
 [NBA Shot Charts](https://github.com/zachary-richardson16/nba-shot-charts)
 
   - Collection of NBA player game, season, and career shot charts drawn using `ggplot` package in R
