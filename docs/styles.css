@@ -1,0 +1,7 @@
+/* css styles */
+
+/* Remove space between navbar and first element */
+main.content > *:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
