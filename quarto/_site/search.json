@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Collaborative\nNBA Predictions\n\nGroup project for UNC course Sports Analytics focused on predicting NBA point totals, spread, and offensive rebound totals for the final week of the regular season\n\nFIFA 21\n\nFinal project for UNC course Introduction to Data Science analyzing data from the video game FIFA 21\n\n9 Ball Pool\n\nGroup project for UNC course Sports Analytics where we watched 9 ball pool videos, collected data, and performed analysis to identify a potential competitive edge for players of the sport\n\nCincinnati Reds Hackathon\n\n2024 Cincinnati Reds Hackathon submission – analysis of every MLB pitch from 2021-2023 and Fangraphs data to identify several MLB pitchers who would be better suited in an alternative pitching role than the one they played in the 2023 season\n\n\n\nIndependent\nNBA Assisted Shot Analysis\n\nAnalysis of which areas on the court are most impacted by assists, valuable for identifying catch-and-shoot locations and useful for play design\nCurrently in progress – data collection\n\nPersonal Website\n\nMy personal website (which you are currently viewing) detailing my experiences and a few projects that I have worked on\n\nNBA Shot Charts\n\nCollection of NBA player game, season, and career shot charts drawn using ggplot package in R"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Oklahoma City Thunder (NBA) - Oklahoma City, OK (Remote) | September 2024-May 2025\nAnalyst Intern\n\nSimplified and improved predictiveness of a player evaluation model using techniques including ordinal logistic regression and random forest\nDeveloped an extensive audit function that provides an easy way of interpreting model prediction errors and avenues for improvement\nCreated an interactive HTML document that utilizes the audit function to allow for visualization of players via sorting, filtering, and/or grouping by various metrics\nShared thoughts and feedback with peers weekly in a brief but insightful manner that quickly summarized key findings, issues, and next steps\n\n\n\nPro Football Focus - Cincinnati, OH (Remote) | May 2024-July 2024\nData Collector Trainee\n\nStudied college and NFL game film to collect precise data including play-by-play player position and role\n\n\n\nUNC Baseball Analytics Team – Chapel Hill, NC | September 2023-June 2024\nData Analyst\n\nCreate weekly pitcher reports including detailed visuals such as pitch heat maps, spin axis diagrams, and player game logs\nPerform full stack development of team R Shiny application to enhance user experience through improved readability of pitcher ranking tables and streamline R script functions for managing app data\nCollect, clean, and manage pitcher and hitter data using Trackman software, manual pitch tagging via 2-dimensional velocity and break statistics, and AWS\n\n\n\nCarolina Athletics – Chapel Hill, NC | August 2023-December 2023\nData Analytics Intern\n\nExtracted, cleaned, and merged large data sets using SQL, resulting in enhanced data accuracy and streamlined decision-making processes\nConducted email market analysis on over 1,000,000 emails using Tableau to identify patterns in emails leading to high profitability and optimized ticket revenue generation\nConducted and presented weekly research on current analytical trends and advanced visualization techniques in sports analytics"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Institute for Advanced Analytics, North Carolina State University – Raleigh, NC | May 2026\nMaster of Science in Analytics\n\n\nUniversity of North Carolina at Chapel Hill – Chapel Hill, NC | May 2024\nBachelor of Science in Biology, Minors in Data Science and Statistics\n\n\nRelevant Coursework\nFoundations of Statistics and Data Science, Introduction to Probability, Methods of Data Analysis, Sports Analytics\n\n\nNorth Carolina School of Science and Mathematics – Durham, NC | May 2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary Richardson",
+    "section": "",
+    "text": "Email: Richardson.ZacharyH@gmail.com | Phone: (252) 266-9212 | LinkedIn | GitHub"
+  },
+  {
+    "objectID": "index.html#mission-statement",
+    "href": "index.html#mission-statement",
+    "title": "Zachary Richardson",
+    "section": "Mission Statement",
+    "text": "Mission Statement\nI am a passionate and driven data scientist looking to apply my vast analytical experiences and knowledge to the world of sports analytics. My goal is to use a data-driven approach to provide competitive advantages to professional sports teams, identify new and innovative trends in sports analytics, and make a meaningful impact on the analytics industry as a whole."
+  }
+]

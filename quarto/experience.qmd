@@ -1,0 +1,41 @@
+---
+title: "Experience"
+---
+
+#### **Oklahoma City Thunder (NBA)** - Oklahoma City, OK (Remote) \| September 2024-May 2025
+
+*Analyst Intern*
+
+-   Simplified and improved predictiveness of a player evaluation model using techniques including ordinal logistic regression and random forest
+
+-   Developed an extensive audit function that provides an easy way of interpreting model prediction errors and avenues for improvement
+
+-   Created an interactive HTML document that utilizes the audit function to allow for visualization of players via sorting, filtering, and/or grouping by various metrics
+
+-   Shared thoughts and feedback with peers weekly in a brief but insightful manner that quickly summarized key findings, issues, and next steps
+
+#### **Pro Football Focus** - Cincinnati, OH (Remote) \| May 2024-July 2024
+
+*Data Collector Trainee*
+
+-   Studied college and NFL game film to collect precise data including play-by-play player position and role
+
+#### **UNC Baseball Analytics Team** – Chapel Hill, NC \| September 2023-June 2024
+
+*Data Analyst*
+
+-   Create weekly pitcher reports including detailed visuals such as pitch heat maps, spin axis diagrams, and player game logs
+
+-   Perform full stack development of team R Shiny application to enhance user experience through improved readability of pitcher ranking tables and streamline R script functions for managing app data
+
+-   Collect, clean, and manage pitcher and hitter data using Trackman software, manual pitch tagging via 2-dimensional velocity and break statistics, and AWS
+
+#### **Carolina Athletics** – Chapel Hill, NC \| August 2023-December 2023
+
+*Data Analytics Intern*
+
+-   Extracted, cleaned, and merged large data sets using SQL, resulting in enhanced data accuracy and streamlined decision-making processes
+
+-   Conducted email market analysis on over 1,000,000 emails using Tableau to identify patterns in emails leading to high profitability and optimized ticket revenue generation
+
+-   Conducted and presented weekly research on current analytical trends and advanced visualization techniques in sports analytics

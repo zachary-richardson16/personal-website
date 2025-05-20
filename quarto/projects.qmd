@@ -1,0 +1,36 @@
+---
+title: "Projects"
+---
+
+#### Collaborative
+
+[NBA Predictions](https://github.com/zachary-richardson16/stor538-prediction-project)
+
+-   Group project for UNC course *Sports Analytics* focused on predicting NBA point totals, spread, and offensive rebound totals for the final week of the regular season
+
+[FIFA 21](https://github.com/zachary-richardson16/FIFA-Analysis)
+
+-   Final project for UNC course *Introduction to Data Science* analyzing data from the video game FIFA 21
+
+[9 Ball Pool](https://github.com/zachary-richardson16/9-Ball-Analysis)
+
+-   Group project for UNC course *Sports Analytics* where we watched 9 ball pool videos, collected data, and performed analysis to identify a potential competitive edge for players of the sport
+
+[Cincinnati Reds Hackathon](https://github.com/zachary-richardson16/reds-hackathon)
+
+-   2024 Cincinnati Reds Hackathon submission -- analysis of every MLB pitch from 2021-2023 and Fangraphs data to identify several MLB pitchers who would be better suited in an alternative pitching role than the one they played in the 2023 season
+
+#### Independent
+
+[NBA Assisted Shot Analysis](https://github.com/zachary-richardson16/nba-assisted-shots-analysis)
+
+-   Analysis of which areas on the court are most impacted by assists, valuable for identifying catch-and-shoot locations and useful for play design
+-   Currently in progress -- data collection
+
+[Personal Website](https://github.com/zachary-richardson16/personal-website)
+
+-   My personal website (which you are currently viewing) detailing my experiences and a few projects that I have worked on
+
+[NBA Shot Charts](https://github.com/zachary-richardson16/nba-shot-charts)
+
+-   Collection of NBA player game, season, and career shot charts drawn using `ggplot` package in R

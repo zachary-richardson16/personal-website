@@ -1,0 +1,20 @@
+---
+title: "Zachary Richardson"
+image: images/headshot.jpg
+about: 
+  template: jolla
+---
+
+```{r include=FALSE}
+library(tidyverse)
+```
+
+<!-- Contact Info -->
+
+::: {style="text-align:center; font-size: 16px;"}
+Email: Richardson.ZacharyH\@gmail.com \| Phone: (252) 266-9212 \| [LinkedIn](https://www.linkedin.com/in/zachary-richardson24/) \| [GitHub](https://github.com/zachary-richardson16)
+:::
+
+## Mission Statement
+
+I am a passionate and driven data scientist looking to apply my vast analytical experiences and knowledge to the world of sports analytics. My goal is to use a data-driven approach to provide competitive advantages to professional sports teams, identify new and innovative trends in sports analytics, and make a meaningful impact on the analytics industry as a whole.

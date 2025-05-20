@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Zachary Richardson Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - education.qmd
+      - experience.qmd
+      - projects.qmd
+
+format:
+  html:
+    theme:
+      light: lux
+      dark: cyborg
+    css: styles.css
+    toc: true
+
+editor: visual
