@@ -11,6 +11,7 @@ output:
     toc_float:
       collapsed: TRUE
       smooth_scroll: TRUE
+    tabset: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -34,9 +35,7 @@ library(tidyverse)
 
 <div style="text-align:center;">
 
-<img 
-src="C:/Users/zacri/Documents/Professional Development/website-picture.jpg" width="225" height="325" 
-/>
+<img src="headshot.jpg" width="200px" style="border-radius: 50%; height: auto;" />
 
 </div>
 
@@ -51,8 +50,13 @@ Email: Richardson.ZacharyH@gmail.com | Phone: (252) 266-9212 | [LinkedIn](https:
 ## Mission Statement
 I am a passionate and driven data scientist looking to apply my vast analytical experiences and knowledge to the world of sports analytics. My goal is to use a data-driven approach to provide competitive advantages to professional sports teams, identify new and innovative trends in sports analytics, and make a meaningful impact on the analytics industry as a whole.
 
+## Overview {.tabset}
 
-## Education
+### Education
+
+#### **Institute for Advanced Analytics, North Carolina State University** -- Raleigh, NC | May 2026
+
+*Master of Science in Analytics*
 
 #### **University of North Carolina at Chapel Hill** -- Chapel Hill, NC | May 2024  
 
@@ -66,7 +70,7 @@ I am a passionate and driven data scientist looking to apply my vast analytical 
 
 
 
-## Experience
+### Experience
 #### **Oklahoma City Thunder (NBA)** - Oklahoma City, OK (Remote) | September 2024-May 2025
 
 *Analyst Intern*
@@ -92,7 +96,7 @@ I am a passionate and driven data scientist looking to apply my vast analytical 
   - Studied college and NFL game film to collect precise data including play-by-play player position and role
 
 
-#### **UNC Baseball Analytics Team** – Chapel Hill, NC  | September 2023-Present
+#### **UNC Baseball Analytics Team** – Chapel Hill, NC  | September 2023-June 2024
 
 *Data Analyst*
 
@@ -114,51 +118,13 @@ processes
   - Conducted and presented weekly research on current analytical trends and advanced visualization techniques in sports analytics
 
 
-#### **Carolina Housing** – Chapel Hill, NC | August 2021-Present
-*Resident Advisor Mentor*, August 2022-Present
-
-  - Serve as a role model and leader for a staff of over 30 Resident Advisors (RAs) while still fulfilling the RA role
-  
-  - Facilitate training sessions and assist in the leadership of weekly staff meetings
-  
-  - Manage purchase requests for RAs biweekly and update budget sheets in Microsoft Excel throughout the month
-
-*Resident Advisor*, August 2021-August 2022
-
-  - Fostered an inclusive living environment for over 60 residents by encouraging problem solving and collaboration
-  
-  - Served as an advocate for residents through open communication between Housing faculty and residents within the community
-  
-  - Created inviting and informative programs monthly to teach critical life skills and support the wellbeing of residents
-
-
-#### **Student Alumni Association Board of Directors** – Chapel Hill, NC | August 2021-May 2023
-*Chair*, May 2022-May 2023
-
-  - Orchestrated reservations of venues and locations for bimonthly events through detailed communication and planning
-  
-  - Led weekly strategy meetings with 10 fellow board members to discuss upcoming tasks and outreach plans
-Associate Board Member, August 2021-May 2022
-
-  - Organized monthly events including dinners, concerts, and outreach programs for over 500 involved members
-  
-  - Communicated effectively with both committees and supervisors to relay important information in a timely manner
-
-
-#### **Heelstone Renewable Energy**, LLC – Chapel Hill, NC | April 2022-August 2022
-*Development Intern*
-
-  - Wrote a Python program that web scraped, cleaned, and converted pertinent data from various energy companies’ quarterly reports into Excel workbooks
-
-  - Reviewed more than 5,000 parcels of land for potential development using factors including land quality and acreage
-  
-  - Contacted county officials across the country to discuss legal zoning ordinances and gather information
 
 
 
-## Projects
 
-### Team Projects
+### Projects {.tabset}
+
+#### Collaborative
 [NBA Predictions](https://github.com/zachary-richardson16/stor538-prediction-project)
 
   - Group project for UNC course *Sports Analytics* focused on predicting NBA point 
@@ -177,7 +143,12 @@ Associate Board Member, August 2021-May 2022
 
   - 2024 Cincinnati Reds Hackathon submission -- analysis of every MLB pitch from 2021-2023 and Fangraphs data to identify several MLB pitchers who would be better suited in an alternative pitching role than the one they played in the 2023 season
 
-### Independent Works
+#### Independent
+[NBA Assisted Shot Analysis](https://github.com/zachary-richardson16/nba-assisted-shots-analysis)
+
+- Analysis of which areas on the court are most impacted by assists, valuable for identifying catch-and-shoot locations and useful for play design
+- Currently in progress -- data collection
+
 [Personal Website](https://github.com/zachary-richardson16/personal-website)
 
   - My personal website (which you are currently viewing) detailing my experiences and a few projects that I have worked on
